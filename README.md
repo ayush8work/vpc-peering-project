@@ -1,3 +1,4 @@
+live : https://d1fhfadxllt04r.cloudfront.net/
 # AWS VPC Peering — Private Multi-VPC Connectivity Project
 
 Design, build and validation of private connectivity between two AWS VPCs using a peering connection, symmetric routing, bastion-proxy SSH and least-privilege security groups. Every resource is tagged `Project=vpc-peering` and the build includes scripted teardown with a zero-resource verification.
